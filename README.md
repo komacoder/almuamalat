@@ -1,4 +1,4 @@
-# ✨ Al Muamalat
+# ✨ almuamalat
 
 ╔════════════════════════════════════╗
 ║  Modern React + Vite project       ║
